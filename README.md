@@ -1,5 +1,6 @@
 # Project1-Test-Overview
-Test project 1, Not final
+Test project 1
+Not Final
 
 ## Repositories
 Project 1 Overview: This project serves as an overview to implement source control through git.
